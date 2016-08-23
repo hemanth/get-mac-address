@@ -1,6 +1,6 @@
 {
   "name": "get-mac-address",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get mac address[es].",
   "license": "MIT",
   "repository": "hemanth/get-mac-address",
