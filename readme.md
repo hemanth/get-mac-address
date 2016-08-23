@@ -1,4 +1,4 @@
-# get-mac-address [![Build Status](https://travis-ci.org/hemanth/get-mac-address.svg?branch=master)](https://travis-ci.org/hemanth/get-mac-address)
+# get-mac-address [![Build Status](https://travis-ci.org/hemanth/get-mac-address.svg?branch=master)](https://travis-ci.org/hemanth/get-mac-address) [check [#1](https://github.com/hemanth/get-mac-address/issues/1)]
 
 > Get mac address[es].
 
